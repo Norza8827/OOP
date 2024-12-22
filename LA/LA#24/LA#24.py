@@ -1,4 +1,4 @@
-# LA 24
+#  LA 24
 from abc import ABC, abstractmethod
 class GameCharacter(ABC):
     def __init__(self, name, move):
